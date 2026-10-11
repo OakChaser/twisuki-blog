@@ -20,9 +20,9 @@ The articles collected in this blog are all shared under the CC BY-NC-SA 4.0 lic
 
 Welcome to submit a PR, or share any ideas you have here.
 
-欢迎互加友链, 提个[issue](https://github.com/Twisuki/Twisuki.github.io/issues)或者[PR](https://github.com/Twisuki/Twisuki.github.io/edit/hope/src/.vuepress/friends.ts)喵~
+欢迎互加友链, 提个[issue](https://github.com/Twisuki/blog/issues)或者[PR](https://github.com/Twisuki/blog/edit/main/src/.vuepress/friends.ts)喵~
 
-And welcome to exchange friend links with me! Open an [issue](https://github.com/Twisuki/Twisuki.github.io/issues) or submit a [PR](https://github.com/Twisuki/Twisuki.github.io/edit/hope/src/.vuepress/friends.ts), Meow~
+And welcome to exchange friend links with me! Open an [issue](https://github.com/Twisuki/blog/issues) or submit a [PR](https://github.com/Twisuki/blog/edit/main/src/.vuepress/friends.ts), Meow~
 
 如果你想搭建同样的博客, 请参考 [Vuepress-theme-hope](https://theme-hope.vuejs.press/zh/) 以及 [苏喵博客/部署](https://twis.uk/notes/dev/20250303-2.html).
 
